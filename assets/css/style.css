@@ -381,7 +381,7 @@ mark,
 
 .initialism {
   font-size: 90%;
-  text-transform: uppercase; }
+   }
 
 .blockquote {
   margin-bottom: 1rem;
@@ -7124,9 +7124,6 @@ button.bg-dark:focus {
 .text-lowercase {
   text-transform: lowercase !important; }
 
-.text-uppercase {
-  text-transform: uppercase !important; }
-
 .text-capitalize {
   text-transform: capitalize !important; }
 
@@ -7528,7 +7525,7 @@ header {
     float: left; }
     header .colorlib-navbar-brand .colorlib-logo {
       font-size: 20px;
-      text-transform: uppercase;
+      
       color: #fff;
       font-weight: 400;
       letter-spacing: 5px;
@@ -7567,7 +7564,7 @@ header {
     height: 2px;
     color: #000000;
     font: bold 14px/.4 Helvetica;
-    text-transform: uppercase;
+    
     text-indent: -55px;
     background: #fff;
     -webkit-transition: all .2s ease-out;
@@ -7746,7 +7743,7 @@ header {
           color: #fff;
           line-height: 1.2;
           font-weight: 700;
-          text-transform: uppercase;
+          
           letter-spacing: 10px;
           display: inline-block;
           position: relative; }
@@ -7761,14 +7758,14 @@ header {
           .owl-carousel.home-slider .slider-item .slider-text p a.scroll {
             color: rgba(255, 255, 255, 0.6);
             font-weight: 400;
-            text-transform: uppercase;
+            
             letter-spacing: 4px; }
           .owl-carousel.home-slider .slider-item .slider-text p strong {
             font-weight: 700; }
             .owl-carousel.home-slider .slider-item .slider-text p strong a {
               color: #fff; }
         .owl-carousel.home-slider .slider-item .slider-text .breadcrumbs {
-          text-transform: uppercase;
+          
           font-size: 13px;
           letter-spacing: 1px; }
           .owl-carousel.home-slider .slider-item .slider-text .breadcrumbs span {
@@ -7899,7 +7896,7 @@ header {
     bottom: 0;
     font-weight: 700 !important;
     color: rgba(255, 255, 255, 0.08);
-    text-transform: uppercase; }
+     }
     @media (min-width: 992px) {
       .wrap .about-desc .bold-text {
         font-size: 10em; } }
@@ -8047,7 +8044,7 @@ textarea.form-control {
         margin-bottom: 10px;
         width: 100% !important; } }
     .ftco-tab-nav li a {
-      text-transform: uppercase;
+      
       font-size: 14px;
       letter-spacing: .2em;
       color: #ccc;
@@ -8067,7 +8064,7 @@ textarea.form-control {
 
 .ftco-section .ftco-sub-title {
   font-size: 16px;
-  text-transform: uppercase;
+  
   letter-spacing: .5em;
   color: #d4d4d4;
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
@@ -8102,7 +8099,7 @@ textarea.form-control {
   background: #000000;
   padding: 8em 0; }
   .ftco-footer .ftco-footer-logo {
-    text-transform: uppercase;
+    
     letter-spacing: .1em; }
   .ftco-footer .ftco-footer-widget h2, .ftco-footer .ftco-footer-widget h4 {
     font-weight: normal;
@@ -8200,7 +8197,7 @@ textarea.form-control {
       height: 300px; } }
 
 .heading-section span {
-  text-transform: uppercase;
+  
   letter-spacing: 5px; }
 
 .heading-section h2 {
@@ -8257,7 +8254,7 @@ textarea.form-control {
 
 .ftco-counter .ftco-label {
   font-size: 18px;
-  text-transform: uppercase;
+  
   letter-spacing: .1em; }
 
 .block-20 {
@@ -8353,7 +8350,7 @@ textarea.form-control {
   .block-7 .heading-2 {
     font-size: 16px;
     font-weight: normal;
-    text-transform: uppercase; }
+     }
   .block-7 .price {
     margin: 0;
     padding: 0;
@@ -8366,8 +8363,6 @@ textarea.form-control {
   .block-7 .excerpt {
     margin-bottom: 20px;
     color: #b3b3b3; }
-  .block-7 .label2 {
-    text-transform: uppercase; }
   .block-7 .pricing-text {
     margin-bottom: 0; }
     .block-7 .pricing-text, .block-7 .pricing-text li {
@@ -8514,7 +8509,7 @@ textarea.form-control {
 
 .block-3 .text .subheading {
   font-size: 13px;
-  text-transform: uppercase;
+  
   letter-spacing: .1em;
   color: #8c8c8c; }
 
@@ -8573,7 +8568,7 @@ textarea.form-control {
 /* Blog*/
 .post-info {
   font-size: 12px;
-  text-transform: uppercase;
+  
   font-weight: bold;
   color: #fff;
   letter-spacing: .1em; }
@@ -8585,7 +8580,7 @@ textarea.form-control {
       opacity: .5; }
 
 .tagcloud a {
-  text-transform: uppercase;
+  
   display: inline-block;
   padding: 4px 10px;
   margin-bottom: 7px;
@@ -8627,7 +8622,7 @@ textarea.form-control {
       .comment-list li .comment-body h3 {
         font-size: 20px; }
       .comment-list li .comment-body .meta {
-        text-transform: uppercase;
+        
         font-size: 13px;
         letter-spacing: .1em;
         color: #ccc; }
@@ -8635,7 +8630,7 @@ textarea.form-control {
         padding: 5px 10px;
         background: #1f1f1f;
         color: #fff;
-        text-transform: uppercase;
+        
         font-size: 11px;
         letter-spacing: .1em;
         font-weight: 400;
